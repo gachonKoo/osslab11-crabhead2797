@@ -1,1 +1,3 @@
-from geo import pythagoras, circle
+from geo import circle
+result = circle(7)
+print(f"{result}")
