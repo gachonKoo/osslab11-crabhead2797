@@ -1,2 +1,2 @@
-from .utils import circle
-__all__= ['circle']
+from .utils import pythagoras, circle
+__all__= ['pythagoras', 'circle']

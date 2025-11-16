@@ -1,3 +1,6 @@
-from geo import circle
+from geo import pythagoras, circle
 result = circle(7)
-print(f"{result}")
+result2 = pythagoras(3,4)
+
+print(f"circle:{result}")
+print(f"pythagoras:{result2}")
