@@ -1,3 +1,1 @@
-from geo import add
-
-print(add(10,20))
+from geo import pythagoras, circle
