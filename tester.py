@@ -1,4 +1,4 @@
-import geo.utils as utils
+from geo.utils import pythagoras, circle
 
 #calculate the length of hypotenuse(c) when a=3 and b=4
 a, b = 3,4
